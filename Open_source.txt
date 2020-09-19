@@ -1,0 +1,14 @@
+CF/CBF
+Scikit-learn - https://scikit-learn.org/stable/
+Pandas - https://pandas.pydata.org/
+Crab - https://github.com/muricoca/crab
+https://github.com/ChangUk/pyCollaborativeFiltering
+https://github.com/xiangwang1223/neural_graph_collaborative_filtering
+https://github.com/MaurizioFD/CFeCBF
+
+Hadoop Mapreduce
+Pydoop - https://github.com/crs4/pydoop
+
+Pathfinding
+Google Map - https://github.com/googlemaps/google-maps-services-python
+Google pathfinding - https://github.com/Joffreybvn/google-pathfinder
