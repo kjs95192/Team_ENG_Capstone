@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HobbyRoute</string>
+    <string name="main_text"> 하비루트의 취향저격 취미추천 알고리즘 이용을 원활히 이용하시기 위해서 로그인을 추천드려요:D</string>
 </resources>
