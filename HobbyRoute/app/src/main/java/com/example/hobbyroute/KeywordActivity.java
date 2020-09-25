@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class RecommendationTypeActivity extends BaseActivity {
+public class KeywordActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -14,20 +14,21 @@ public class RecommendationTypeActivity extends BaseActivity {
         setContentView(R.layout.activity_keyword);
     }
 
-    public void onClickSurprise(View view) {
-        Intent intent = new Intent(this, KeywordActivity.class);
+    public void onClickComplete(View view) {
+        Intent intent = new Intent(this, HobbyRecommendationActivity.class);
+//        intent.putExtra()
         startActivity(intent);
         finish();
     }
 
-    public void onClickShow(View view) {
-        Intent intent = new Intent(this, RollingSelectActivity.class);
+    public void onClickSkip(View view) {
+        Intent intent = new Intent(this, HobbyRecommendationActivity.class);
         startActivity(intent);
         finish();
     }
 
     public void onClickBack(View view) {
-        Intent intent = new Intent(this, MainActivity.class);
+        Intent intent = new Intent(this, RecommendationTypeActivity.class);
         startActivity(intent);
         finish();
     }

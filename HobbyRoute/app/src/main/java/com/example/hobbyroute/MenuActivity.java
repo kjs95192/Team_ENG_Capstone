@@ -6,28 +6,28 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class RecommendationTypeActivity extends BaseActivity {
+public class MenuActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_keyword);
+        setContentView(R.layout.activity_menu);
     }
 
-    public void onClickSurprise(View view) {
-        Intent intent = new Intent(this, KeywordActivity.class);
-        startActivity(intent);
-        finish();
-    }
-
-    public void onClickShow(View view) {
-        Intent intent = new Intent(this, RollingSelectActivity.class);
-        startActivity(intent);
-        finish();
-    }
-
-    public void onClickBack(View view) {
+    public void onClickHome(View view) {
         Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
+        finish();
+    }
+
+    public void onClickPlus(View view) {
+        Intent intent = new Intent(this, PlusMenuActivity.class);
+        startActivity(intent);
+        finish();
+    }
+
+    public void onClickSetting(View view) {
+        Intent intent = new Intent(this, SettingActivity.class);
         startActivity(intent);
         finish();
     }

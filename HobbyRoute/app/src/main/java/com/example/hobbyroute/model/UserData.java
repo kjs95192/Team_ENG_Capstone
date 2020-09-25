@@ -1,9 +1,9 @@
 package com.example.hobbyroute.model;
 
-public class User {
+public class UserData {
     private String id;
     private String pw;
-    private static User instance = null;
+    private static UserData instance = null;
 
     public void setUser(String id, String pw){
         this.id = id;
@@ -26,9 +26,9 @@ public class User {
         this.pw = pw;
     }
 
-    public static synchronized User getInstance(){
+    public static synchronized UserData getInstance(){
         if(instance == null){
-            instance = new User();
+            instance = new UserData();
         }
         return instance;
     }

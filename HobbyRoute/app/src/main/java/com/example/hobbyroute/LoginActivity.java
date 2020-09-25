@@ -9,9 +9,9 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageButton;
 
-import com.example.hobbyroute.model.User;
+import com.example.hobbyroute.model.UserData;
 
-public class LoginActivity extends AppCompatActivity {
+public class LoginActivity extends BaseActivity {
     ImageButton signinButton;
     ImageButton signupButton;
     ImageButton nonButton;
@@ -33,8 +33,6 @@ public class LoginActivity extends AppCompatActivity {
 
     public void onClickSignIn(View view) {
         //Todo: SignIn - id, pw 확인 및 적용
-        User.getInstance().setId(idEdit.getText().toString());
-        User.getInstance().setPw(pwEdit.getText().toString());
 
         Intent intent = new Intent(this, RecommendationTypeActivity.class);
         startActivity(intent);
@@ -61,5 +59,9 @@ public class LoginActivity extends AppCompatActivity {
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
         finish();
+    }
+
+    public void onClickMenu(View view){
+        super.menu(view);
     }
 }
