@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hobbyroute"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="30" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar" >
+        <activity android:name="com.hobbyroute.SettingActivity" />
+        <activity android:name="com.hobbyroute.BoardActivity" />
+        <activity android:name="com.hobbyroute.PlusMenuActivity" />
+        <activity android:name="com.hobbyroute.DetailviewActivity" />
+        <activity android:name="com.hobbyroute.RouteviewActivity" />
+        <activity android:name="com.hobbyroute.MapviewActivity" />
+        <activity android:name="com.hobbyroute.MenuActivity" />
+        <activity android:name="com.hobbyroute.RollingSelectActivity" />
+        <activity android:name="com.hobbyroute.HobbyRecommendationActivity" />
+        <activity android:name="com.hobbyroute.KeywordActivity" />
+        <activity android:name="com.hobbyroute.SignUpActivity" />
+        <activity android:name="com.hobbyroute.RecommendationTypeActivity" />
+        <activity android:name="com.hobbyroute.LoginActivity" />
+        <activity android:name="com.hobbyroute.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
