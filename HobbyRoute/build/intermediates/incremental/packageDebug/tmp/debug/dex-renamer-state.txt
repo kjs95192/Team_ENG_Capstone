@@ -1,0 +1,4 @@
+#Sat Oct 10 18:17:08 KST 2020
+base.0=E\:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
