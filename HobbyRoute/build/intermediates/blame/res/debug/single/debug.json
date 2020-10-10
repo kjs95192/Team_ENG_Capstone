@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_back.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\back.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_manico4.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\manico4.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_manico8.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\manico8.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recommendation.xml.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\layout\\activity_recommendation.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_view_1.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\view_1.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_finishbtn.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\finishbtn.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_view_4.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\view_4.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_manico5.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\manico5.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select.xml.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list.xml.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_browsebtn.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\browsebtn.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_manico7.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\manico7.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_view_2.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\view_2.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_signinbtn.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\signinbtn.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_manico1.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\manico1.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_view_5.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\view_5.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mainright.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\mainright.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\btn.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_manico6.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\manico6.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_view_3.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\view_3.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_locationbtn.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\locationbtn.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_jumpbtn.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\jumpbtn.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_manico2.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\manico2.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_board.xml.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\layout\\activity_board.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_searchbtn.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\searchbtn.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_background.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\background.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mainleft.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\mainleft.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_loginbtn.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\loginbtn.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_nonmemberbtn.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\nonmemberbtn.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_nextbtn.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\nextbtn.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_manico9.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\manico9.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_manico3.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\manico3.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_view_6.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\view_6.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_menu.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\menu.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_recommendbtn.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\recommendbtn.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_startbtn.png.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\drawable-v24\\startbtn.png"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android\\AndroidStudioProjects\\HobbyRoute_ver_1_2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]
